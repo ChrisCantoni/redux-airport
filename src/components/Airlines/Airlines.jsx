@@ -6,8 +6,9 @@ const Airlines = (props) => {
     return (
         <tr>
         <td>
-            {props.airline}
+            {props.airline.airline}
         </td>
+        <td>{props.airline.amount}</td>
         </tr>
     )
 }

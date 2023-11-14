@@ -9,7 +9,8 @@ const AirlineTable = () => {
         <table>
           <thead>
             <tr>
-              <th>Airline</th>
+                <th>Airline</th>
+                <th>Number of Planes</th>
             </tr>
           </thead>
           <tbody>
