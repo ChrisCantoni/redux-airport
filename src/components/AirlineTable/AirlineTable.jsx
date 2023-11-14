@@ -1,5 +1,6 @@
 import Airlines from '../Airlines/Airlines';
 import {useSelector} from 'react-redux';
+import '../App/App.css';
 
 
 const AirlineTable = () => {
